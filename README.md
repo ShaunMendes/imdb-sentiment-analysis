@@ -1,4 +1,4 @@
-# imdb-sentiment-analysis
+# IMDB-sentiment-analysis
 IMDB Sentiment Analysis using Python
 
 Data is obtained from the Standford IMDB Reviews Dataset
